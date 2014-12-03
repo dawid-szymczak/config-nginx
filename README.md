@@ -1,0 +1,4 @@
+config-nginx
+============
+
+Nginx configuration
